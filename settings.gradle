@@ -1,0 +1,2 @@
+rootProject.name = 'jsypt'
+include 'integration-test'
